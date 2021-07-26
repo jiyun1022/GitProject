@@ -19,7 +19,10 @@
      <p>2. reverse commit</p>
      <p>불필요한 내용 추가</p>
 
-     
-
+     <p>신규 개발이 이루어지는 중 입니다.</p>
+     <ul>
+       <li>master</li>
+       <li>O 신규개발</li>
+     </ul>
 </body>
 </html>
